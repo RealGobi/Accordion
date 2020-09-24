@@ -1,0 +1,9 @@
+.accordion-header {
+  color:gray;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.accordion-header:hover {
+  color:rgb(51, 49, 49);
+}
